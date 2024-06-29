@@ -1,0 +1,161 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+a{
+  
+   
+   color: black;
+   text-decoration: none;
+
+}
+
+a:hover{
+    color: blue;
+}
+.orta{
+    display: flex;
+    gap: 40px;
+    padding-top: 60px;
+    padding-left: 120px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.alla{
+    display: flex;
+    justify-content: space-between;
+
+}
+.c{
+    background-color: blue;
+    color: white;
+    margin: 40px;
+    margin-right: 30    0px;
+    width: 130px;height: 50px;
+}
+.left{
+    padding-left: 208px;
+    
+}
+h1{
+    font-size: 50px;
+
+}
+h1:hover{
+    color: blue;
+}
+
+.one{
+    padding-left: 258px;
+    background-image: url(./zOY7ROKMih\ 1.png);
+    width: 1600px;
+    height: 690px;
+    
+ 
+}
+
+
+    
+
+
+.bff{
+    width: 500px;
+    height: 500px;
+    background-color: aqua;
+}
+
+.leff{
+    padding-right: 800px;
+}
+.v{
+    font-size: 20px;
+}
+.v:hover{
+    color: blue;
+}
+.c1{
+    background-color: blue;
+    color: white;
+    
+    margin-right: 30    0px;
+    width: 130px;height: 50px;
+}
+.bee{
+    background: rgba(109, 107, 107, 0.21);
+    Width:687px;
+    Height:110px;
+    display: flex;
+    gap: 60px;
+    align-items: center;
+    padding-left: 50px;
+}
+.negr{
+    padding-top: 30px;
+}
+.two{
+    padding-left: 300px;
+    display: flex;
+    gap: 200px;
+    align-items: center;
+}
+h2{
+    font-size: 40px;
+    
+}
+.three{
+    text-align: center;
+    padding-left: 200px;
+}
+.vvv{
+    width: 250px;
+    height: 200px;
+    border: 2px solid gray;
+}
+.ota{
+    display: flex;
+    gap: 50px;
+    padding-left: 100px;
+}
+.four{
+    padding-left: 300px;    
+    align-items: center;
+    display: flex;
+    gap: 50px;
+}
+.cd{
+    display: flex;
+    gap: 50px;
+    padding-left: 300px;
+}
+.bv{
+    width: 360px;
+    height: 325px;
+    border: 2px solid gray;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.six{
+    display: flex;
+    gap: 50px;
+    padding-left: 300px;
+}
+.ddd{
+    padding-left: 30px;
+    width: 569px;
+    height: 54px;
+
+}
+footer{
+    padding-left: 500px;
+    
+}
